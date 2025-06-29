@@ -16,8 +16,8 @@
 - **Move It Website**  
   *Helping people stay motivated and move forward.*
 
-- **QR Code Generator**  
-  *Simple, fast, and handy for all your QR code needs.*
+- **TO-DO Web Application**  
+  *Keep your day-to-day tasks*
 
 ---
 
