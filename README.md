@@ -1,9 +1,8 @@
-![Banner](https://i.imgur.com/ZU1m1fv.png)
 
 <h1 align="center">Hi 👋, I'm Ardhaya Johari</h1>
 <h3 align="center">⚙️ Full Stack Developer | MERN & Beyond | Debugging with Chai ☕</h3>
 
-// Code + Chai = My Flow
+Code + Chai = My Flow
 while (true) {
   code();
   fixBugs();
