@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Ardhaya Johari</h1>
 <h3 align="center">⚙️ Full Stack Developer | MERN & Beyond | Debugging with Chai ☕</h3>
 
-```js
 // Code + Chai = My Flow
 while (true) {
   code();
@@ -41,4 +40,4 @@ Version Control & GitHub Workflow
 I drink chai while fixing bugs.
 And I think Ctrl+Z should exist in real life too.
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=F700FF&center=true&vCenter=true&width=450&lines=Made+with+❤️+by+Ardhaya+Johari;Let's+build+something+awesome+💻" alt="Typing SVG" /> </p> ```
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=F700FF&center=true&vCenter=true&width=450&lines=Made+with+❤️+by+Ardhaya+Johari;Let's+build+something+awesome+💻" alt="Typing SVG" /> </p> 
