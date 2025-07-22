@@ -50,6 +50,16 @@
 
 <img src="https://img.shields.io/badge/GSSoC'25-Open%20Source%20Contributor-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="GSSoC Badge"/>
 
+### 🦈 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.com/Ardhaya-Johari/Ardhaya-Johari/assets/your-image-id/pull-shark-badge" width="120" alt="Pull Shark Badge"/>
+</p>
+
+> **Pull Shark Unlocked!**  
+> Opened pull requests that were merged into repositories 🧠💻  
+> Keep swimming strong in open source waters!
+
 📊 **My GitHub Contribution Graph**
 
 <a href="https://github.com/Ardhaya-Johari">
