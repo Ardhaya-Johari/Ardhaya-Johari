@@ -4,7 +4,8 @@
 <p align="center">
   <code>while (true) { code(); fixBugs(); drinkChai(); }</code>
 </p>
-
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/889646f0-c5ad-40a5-96a4-854edf4ff9d2" />
+"
 ---
 
 ## 🚀 About Me
