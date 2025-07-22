@@ -53,7 +53,7 @@
 ### 🦈 GitHub Achievements
 
 <p align="center">
-  <img src="https://github.com/Ardhaya-Johari/Ardhaya-Johari/assets/your-image-id/pull-shark-badge" width="120" alt="Pull Shark Badge"/>
+  <img src = "https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="120" alt="Pull Shark Badge"/>
 </p>
 
 > **Pull Shark Unlocked!**  
