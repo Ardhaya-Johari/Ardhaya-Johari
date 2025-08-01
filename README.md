@@ -65,10 +65,9 @@
 
 ### 📊 **My GitHub Contribution Graph** 
 
-<div align="center">
-    
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ardhaya-Johari/Ardhaya-Johari/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
