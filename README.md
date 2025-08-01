@@ -1,4 +1,4 @@
-<h1 align="center">animated_svg_content = '''
+<h1 align="center">
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="140" viewBox="0 0 800 140">
   <style>
     .text {
@@ -32,7 +32,6 @@
   <text x="50%" y="50" text-anchor="middle" class="text line1">Hi 👋, I'm Ardhaya Johari</text>
   <text x="50%" y="100" text-anchor="middle" class="text line2">⚙️ Full Stack Developer | MERN &amp; Beyond | Debugging with Chai</text>
 </svg>
-'''
 
 <p align="center">
   <code>while (true) { code(); fixBugs(); drinkChai(); }</code>
