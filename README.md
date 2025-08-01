@@ -1,4 +1,38 @@
-<h1 align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Ardhaya+Johari;⚙️+Full+Stack+Developer+%7C+MERN+%26+Beyond+%7C+Debugging+with+Chai)
+<h1 align="center">animated_svg_content = '''
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="140" viewBox="0 0 800 140">
+  <style>
+    .text {
+      font-family: 'Courier New', monospace;
+      fill: #00FFCC;
+      white-space: pre;
+    }
+    .line1 {
+      font-size: 26px;
+      animation: typing1 3s steps(30, end) 1s 1 normal both, blink 0.7s step-end infinite;
+      overflow: hidden;
+    }
+    .line2 {
+      font-size: 20px;
+      opacity: 0;
+      animation: fadeIn 1s ease-in forwards;
+      animation-delay: 4.2s;
+    }
+    @keyframes typing1 {
+      from { width: 0; }
+      to { width: 100%; }
+    }
+    @keyframes blink {
+      50% { stroke: transparent; }
+    }
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
+  </style>
+
+  <text x="50%" y="50" text-anchor="middle" class="text line1">Hi 👋, I'm Ardhaya Johari</text>
+  <text x="50%" y="100" text-anchor="middle" class="text line2">⚙️ Full Stack Developer | MERN &amp; Beyond | Debugging with Chai</text>
+</svg>
+'''
 
 <p align="center">
   <code>while (true) { code(); fixBugs(); drinkChai(); }</code>
