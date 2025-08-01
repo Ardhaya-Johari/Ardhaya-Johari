@@ -66,10 +66,6 @@
 > Keep swimming strong in open source waters!
 
 📊 **My GitHub Contribution Graph**
-
-<a href="https://github.com/Ardhaya-Johari">
-  <img src="https://ghchart.rshah.org/5e5e5e/Ardhaya-Johari" alt="Ardhaya's GitHub contribution graph" />
-</a>
 <a href="https://github.com/Ardhaya-Johari">
   <img src="https://ghchart.rshah.org/Ardhaya-Johari" alt="Ardhaya's GitHub chart" />
 </a>
