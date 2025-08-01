@@ -67,7 +67,7 @@
 
 📊 **My GitHub Contribution Graph**
 <a href="https://github.com/Ardhaya-Johari">
-  <img src="https://ghchart.rshah.org/Ardhaya-Johari" alt="Ardhaya's GitHub chart" />
+  <img src="https://ghchart.rshah.org/F700FF/Ardhaya-Johari" alt="Ardhaya's GitHub chart" />
 </a>
 
 ---
