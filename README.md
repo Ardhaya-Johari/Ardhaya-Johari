@@ -63,12 +63,11 @@
 > Opened pull requests that were merged into repositories 🧠💻  
 > Keep swimming strong in open source waters!
 
-### 📊 **My GitHub Contribution Graph**
+### 📊 **My GitHub Contribution Graph** 
 
-<p align="center">
-  <img src="https://github.com/Ardhaya-Johari/Ardhaya-Johari/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
-</p>
-
+<div align="center">
+     ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
 ---
 
 ## 📫 Contact Me
