@@ -67,10 +67,6 @@
 <a href="https://github.com/Ardhaya-Johari">
   <img src="https://ghchart.rshah.org/F700FF/Ardhaya-Johari" alt="Ardhaya's GitHub chart" />
 </a>
-<div align="center">
-    
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-</div>
 ---
 
 ## 📫 Contact Me
