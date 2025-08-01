@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ardhaya Johari</h1>
-<h3 align="center">⚙️ Full Stack Developer | MERN & Beyond | Debugging with Chai</h3>
+<h1 align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Ardhaya+Johari;⚙️+Full+Stack+Developer+%7C+MERN+%26+Beyond+%7C+Debugging+with+Chai)
 
 <p align="center">
   <code>while (true) { code(); fixBugs(); drinkChai(); }</code>
