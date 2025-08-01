@@ -64,6 +64,7 @@
 > Keep swimming strong in open source waters!
 
 ### 📊 **My GitHub Contribution Graph**
+
 <div align="center">
 
   ![snake gif](https://github.com/Ardhaya-Johari/Ardhaya-Johari/blob/output/github-snake-dark.svg)
