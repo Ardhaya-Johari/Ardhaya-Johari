@@ -38,16 +38,16 @@
 ---
 
 ## 🧑‍💻 GitHub Stats
-
+<p align = "center">
 <!-- GitHub Readme Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.demolab.com/?user=Ardhaya-Johari&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ardhaya-Johari&theme=tokyonight" />
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=compact&theme=tokyonight" />
-
+</p>
 ---
 
 ## 🏅 Open Source & Community
