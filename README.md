@@ -38,11 +38,15 @@
 ---
 
 ## 🧑‍💻 GitHub Stats
+
 | GitHub Stats | Streak Stats |
 | ------------ | ------------ |
 | ![Ardhaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&show_icons=true&theme=tokyonight) | ![Ardhaya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ardhaya-Johari&theme=tokyonight) |
+
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=compact&theme=tokyonight&v=1)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
+</p>
 
 ## 🏅 Open Source & Community
 
