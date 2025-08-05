@@ -38,14 +38,11 @@
 ---
 
 ## 🧑‍💻 GitHub Stats
-<p align = "center">
-<!-- GitHub Readme Stats -->
-![Ardhaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&show_icons=true&theme=tokyonight)
-<br>
-<!-- GitHub Streak Stats -->
-![Ardhaya's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ardhaya-Johari&theme=tokyonight)
-<br>
+| GitHub Stats | Streak Stats |
+| ------------ | ------------ |
+| ![Ardhaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&show_icons=true&theme=tokyonight) | ![Ardhaya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ardhaya-Johari&theme=tokyonight) |
 <!-- Top Languages -->
+<p align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=compact&theme=tokyonight" />
 </p>
 
