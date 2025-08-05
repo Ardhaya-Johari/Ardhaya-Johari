@@ -40,10 +40,10 @@
 ## 🧑‍💻 GitHub Stats
 <p align = "center">
 <!-- GitHub Readme Stats -->
-![Ardhaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Ardhaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&show_icons=true&theme=tokyonight)
 <br>
 <!-- GitHub Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.fly.dev?user=Ardhaya-Johari&theme=tokyonight)
+![Ardhaya's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ardhaya-Johari&theme=tokyonight)
 <br>
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=compact&theme=tokyonight" />
