@@ -41,13 +41,12 @@
 
 | GitHub Stats | Streak Stats |
 | ------------ | ------------ |
-| ![Ardhaya's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ardhaya-Johari&show_icons=true&theme=tokyonight) | ![Ardhaya's GitHub Streak](https://streak-stats.demolab.com?user=Ardhaya-Johari&theme=tokyonight) |
+| ![Ardhaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&show_icons=true&theme=tokyonight&cache_seconds=86400) | ![Ardhaya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ardhaya-Johari&theme=tokyonight&cache_seconds=86400) |
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
 </p>
-
 
 ## 🏅 Open Source & Community
 
