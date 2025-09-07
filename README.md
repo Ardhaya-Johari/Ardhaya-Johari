@@ -38,9 +38,10 @@
 ---
 ## 🧑‍💻 GitHub Stats
 
-| GitHub Stats                                                                                                 | Streak Stats                                                                                          | Top Languages                                                                                              |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=0)| ![Streak Stats](https://streak-stats.demolab.com/?user=Ardhaya-Johari&theme=tokyonight&count_private=true&cache_seconds=0)| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=compact&theme=tokyonight&cache_seconds=0) |
+| GitHub Stats | Streak Stats | Top Languages |
+| ------------ | ------------ | ------------- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&show_icons=true&theme=tokyonight&include_all_commits=true) | ![Streak Stats](https://streak-stats.demolab.com/?user=Ardhaya-Johari&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=compact&theme=tokyonight) |
+
 
 ## 🏅 Open Source & Community
 
