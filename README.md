@@ -37,14 +37,9 @@
 
 ---
 ## 🧑‍💻 GitHub Stats
-
 | GitHub Stats | Top Languages | Streak Stats |
 | ------------ | ------------- | ------------ |
-| <img src="https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=ff79c6&icon_color=8be9fd&text_color=cad3f5&bg_color=1e1e2f&hide_rank=true&card_width=300" alt="GitHub Stats" width="300"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=compact&theme=tokyonight&hide_border=true&card_width=300" alt="Top Languages" width="300"/> | <img src="https://github-readme-streak-stats.demolab.com?user=Ardhaya-Johari&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=300" alt="Streak Stats" width="300"/> |
-
-| Most Used Languages | Commits Per Repo |
-| ------------------ | ---------------- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=donut&theme=tokyonight&hide_border=true&card_width=300" alt="Most Used Languages Donut Chart" width="300"/> | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ardhaya-Johari&theme=tokyonight&hide_border=true&card_width=300" alt="Commits per Repo" width="300"/> |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=ff79c6&icon_color=8be9fd&text_color=cad3f5&bg_color=1e1e2f&hide_rank=true&card_width=300) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=compact&theme=tokyonight&hide_border=true&card_width=300) | ![Streak Stats](https://streak-stats.demolab.com?user=Ardhaya-Johari&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=300) |
 
 ---
 
