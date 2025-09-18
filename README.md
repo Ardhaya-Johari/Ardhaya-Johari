@@ -40,7 +40,12 @@
 
 | GitHub Stats | Streak Stats | Top Languages |
 | ------------ | ------------ | ------------- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Ardhaya-Johari&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=compact&theme=tokyonight&langs_count=6) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight) | ![Streak Stats](https://streak-stats.demolab.com?user=Ardhaya-Johari&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=compact&theme=tokyonight&langs_count=6) |
+
+---
+
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Ardhaya-Johari&theme=tokyonight&column=6&margin-w=15&margin-h=15)
 
 ## 🏅 Open Source & Community
 
@@ -63,8 +68,9 @@
   <img src="https://raw.githubusercontent.com/Ardhaya-Johari/Ardhaya-Johari/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
+### 📊 Contribution Graph
+![Ardhaya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ardhaya-Johari&theme=tokyo-night)
 ---
-
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-ardhayasaxena3897@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ardhayasaxena3897@gmail.com)
