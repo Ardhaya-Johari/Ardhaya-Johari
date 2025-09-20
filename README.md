@@ -30,11 +30,10 @@
 
 | Project | Description |
 |--------|-------------|
-| 🚀 **<span style="color:#F700FF;">Gemini AI Clone</span>** | <span style="color:#C0C0FF;">A functional clone of Google's Gemini UI with HTML/CSS/JS</span> |
-| 📝 **<span style="color:#F700FF;">Skriva Blog</span>** | <span style="color:#C0C0FF;">A full-stack blog web app with create/edit/delete posts using Node.js & EJS</span> |
-| 🔥 **<span style="color:#F700FF;">Forest Fire Monitoring System</span>** | <span style="color:#C0C0FF;">An AI-assisted system to detect and monitor forest fires in real-time</span> |
-| 🌴 **<span style="color:#F700FF;">Aurelia</span>** | <span style="color:#C0C0FF;">A React-based, travel-friendly app to plan and track trips seamlessly</span> |
-
+| ![Gemini AI Clone](https://img.shields.io/badge/Gemini%20AI-F700FF?style=for-the-badge&logo=google&logoColor=white) | A functional clone of Google's Gemini UI with HTML/CSS/JS |
+| ![Skriva Blog](https://img.shields.io/badge/Skriva%20Blog-F700FF?style=for-the-badge&logo=node.js&logoColor=white) | A full-stack blog web app with create/edit/delete posts using Node.js & EJS |
+| ![Forest Fire Monitoring](https://img.shields.io/badge/Forest%20Fire-F700FF?style=for-the-badge&logo=firefox&logoColor=white) | An AI-assisted system to detect and monitor forest fires in real-time |
+| ![Aurelia](https://img.shields.io/badge/Aurelia-F700FF?style=for-the-badge&logo=react&logoColor=white) | A React-based, travel-friendly app to plan and track trips seamlessly |
 
 ---
 ## 🧑‍💻 GitHub Stats
