@@ -24,35 +24,47 @@
 ## 🛠️ Tech Stack
 ## 🖥️ Frontend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" style="margin-right: 10px; filter: hue-rotate(300deg) saturate(150%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" style="margin-right: 10px; filter: hue-rotate(180deg) saturate(150%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" width="40" style="margin-right: 10px; filter: hue-rotate(270deg) saturate(150%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="40" style="margin-right: 10px; filter: hue-rotate(160deg) saturate(150%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" style="margin-right: 10px; filter: hue-rotate(50deg) saturate(150%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" style="margin-right: 10px; filter: hue-rotate(180deg) saturate(150%);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/bootstrap.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tailwindcss.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
 </p>
 
 ## ⚙️ Backend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" style="margin-right: 10px; filter: hue-rotate(100deg) saturate(150%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="40" style="margin-right: 10px; filter: hue-rotate(200deg) saturate(150%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" height="40" width="40" style="margin-right: 10px; filter: hue-rotate(270deg) saturate(150%);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/node-dot-js.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/express.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/ejs.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
 </p>
 
 ## 🗄️ Databases & APIs
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" style="margin-right: 10px; filter: hue-rotate(210deg) saturate(150%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" style="margin-right: 10px; filter: hue-rotate(140deg) saturate(150%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="40" style="margin-right: 10px; filter: hue-rotate(300deg) saturate(150%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" style="margin-right: 10px; filter: hue-rotate(180deg) saturate(150%);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postgresql.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mongodb.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/graphql.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mysql.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/supabase.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postman.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/axios.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
 </p>
 
 ## 🛠️ Tools & Deployment
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" style="margin-right: 10px; filter: hue-rotate(300deg) saturate(150%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" style="margin-right: 10px; filter: hue-rotate(0deg) saturate(150%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel.svg" height="40" width="40" style="margin-right: 10px; filter: hue-rotate(270deg) saturate(150%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40" width="40" style="margin-right: 10px; filter: hue-rotate(180deg) saturate(150%);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/vercel.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/netlify.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+</p>
+
+## 🤖 AI / Data Science
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/pandas.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/numpy.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/matplotlib.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/seaborn.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
 </p>
 
 ---
