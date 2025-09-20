@@ -39,17 +39,18 @@
 ## 🧑‍💻 GitHub Stats
 <div align="center">
 
-[![Ardhaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Ardhaya-Johari/github-readme-stats)  
+[![Ardhaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&show_icons=true&count_private=true&title_color=F700FF&icon_color=F700FF&text_color=EF88AD&bg_color=0d1117)](https://github.com/Ardhaya-Johari/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=donut-vertical&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Ardhaya-Johari/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=donut-vertical&show_icons=true&count_private=true&title_color=F700FF&icon_color=F700FF&text_color=EF88AD&bg_color=0d1117)](https://github.com/Ardhaya-Johari/github-readme-stats)
 
-![Streak Stats](https://streak-stats.demolab.com?user=Ardhaya-Johari&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=300)  
+![Streak Stats](https://streak-stats.demolab.com?user=Ardhaya-Johari&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=300&background=0d1117&ring=F700FF&fire=F700FF&currStreakLabel=EF88AD&sideNums=EF88AD&sideLabels=F700FF&dates=EF88AD)
 
 </div>
 
 
 ### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Ardhaya-Johari&theme=tokyonight&column=6&margin-w=15&margin-h=15)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Ardhaya-Johari&title_color=F700FF&text_color=EF88AD&icon_color=F700FF&theme=tokyonight&column=6&margin-w=15&margin-h=15)
 
 ## 🏅 Open Source & Community
 
