@@ -72,7 +72,7 @@
 </p>
 
 ### 📊 Activity Graph
-![Ardhaya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ardhaya-Johari&show_icons=true&count_private=true&theme=tokyonight)
+
 ---
 ## 📫 Contact Me
 
