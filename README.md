@@ -30,10 +30,11 @@
 
 | Project | Description |
 |--------|-------------|
-| 🚀 **Gemini AI Clone** | A functional clone of Google's Gemini UI with HTML/CSS/JS |
-| 📝 **Skriva Blog** | A full-stack blog web app with create/edit/delete posts using Node.js & EJS |
-| 🌍 **Travel Tracker** | A map-based React app to track your visited places |
-| ✅ **To-Do App** | Beautiful task manager with glassmorphism UI and animations |
+| 🚀 **<span style="color:#F700FF;">Gemini AI Clone</span>** | <span style="color:#C0C0FF;">A functional clone of Google's Gemini UI with HTML/CSS/JS</span> |
+| 📝 **<span style="color:#F700FF;">Skriva Blog</span>** | <span style="color:#C0C0FF;">A full-stack blog web app with create/edit/delete posts using Node.js & EJS</span> |
+| 🔥 **<span style="color:#F700FF;">Forest Fire Monitoring System</span>** | <span style="color:#C0C0FF;">An AI-assisted system to detect and monitor forest fires in real-time</span> |
+| 🌴 **<span style="color:#F700FF;">Aurelia</span>** | <span style="color:#C0C0FF;">A React-based, travel-friendly app to plan and track trips seamlessly</span> |
+
 
 ---
 ## 🧑‍💻 GitHub Stats
