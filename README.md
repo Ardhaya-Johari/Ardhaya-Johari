@@ -22,51 +22,8 @@
 ---
 
 ## 🛠️ Tech Stack
-## 🖥️ Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/bootstrap.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tailwindcss.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-</p>
 
-## ⚙️ Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/node-dot-js.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/express.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/ejs.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-</p>
-
-## 🗄️ Databases & APIs
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postgresql.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mongodb.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/graphql.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mysql.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/supabase.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postman.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/axios.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-</p>
-
-## 🛠️ Tools & Deployment
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/vercel.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/netlify.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-</p>
-
-## 🤖 AI / Data Science
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/pandas.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/numpy.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/matplotlib.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/seaborn.svg" height="40" style="margin-right:10px; fill:#F700FF"/>
-</p>
-
+<p align="left"> <!-- Web Dev --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <!-- Backend --> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/EJS-8C92AC?style=for-the-badge"/> <!-- Database & APIs --> <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/> <!-- Version Control & Deployment --> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <!-- AI/ML & Data --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4EABD1?style=for-the-badge&logoColor=white"/> </p>
 ---
 
 ## 📁 Featured Projects
