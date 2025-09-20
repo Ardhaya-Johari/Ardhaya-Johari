@@ -38,35 +38,15 @@
 ---
 ## 🧑‍💻 GitHub Stats
 <div align="center">
-<table>
-<tr>
-<td>
 
-[![Ardhaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Ardhaya-Johari/github-readme-stats)
+[![Ardhaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Ardhaya-Johari/github-readme-stats)  
 
-</td>
-<td>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=donut-vertical&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Ardhaya-Johari/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=donut-vertical&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Ardhaya-Johari/github-readme-stats)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-![Streak Stats](https://streak-stats.demolab.com?user=Ardhaya-Johari&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=300)
-
-</td>
-<td>
-
-[![Ardhaya's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ardhaya-Johari&theme=tokyonight)](https://github.com/Ardhaya-Johari/github-readme-stats)
-
-</td>
-</tr>
-</table>
+![Streak Stats](https://streak-stats.demolab.com?user=Ardhaya-Johari&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=300)  
 
 </div>
+
 
 ### 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ardhaya-Johari&theme=tokyonight&column=6&margin-w=15&margin-h=15)
