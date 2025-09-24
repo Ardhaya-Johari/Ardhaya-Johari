@@ -40,7 +40,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=donut-vertical&show_icons=true&count_private=true&title_color=F700FF&icon_color=F700FF&text_color=EF88AD&bg_color=0d1117)](https://github.com/Ardhaya-Johari/github-readme-stats)
 
-[![GitHub Streak](https://your-vercel-deployment.vercel.app/?user=Ardhaya-Johari&background=0d1117&ring=F700FF&fire=F700FF&currStreakLabel=EF88AD&sideNums=EF88AD&sideLabels=F700FF&dates=EF88AD&hide_border=true)](https://github.com/Ardhaya-Johari)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ardhaya-Johari&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
