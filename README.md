@@ -40,15 +40,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=donut-vertical&show_icons=true&count_private=true&title_color=F700FF&icon_color=F700FF&text_color=EF88AD&bg_color=0d1117)](https://github.com/Ardhaya-Johari/github-readme-stats)
 
-![Streak Stats](https://streak-stats.demolab.com?user=Ardhaya-Johari&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=300&background=0d1117&ring=F700FF&fire=F700FF&currStreakLabel=EF88AD&sideNums=EF88AD&sideLabels=F700FF&dates=EF88AD)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ardhaya-Johari&show_icons=true&count_private=true&title_color=F700FF&icon_color=F700FF&text_color=EF88AD&bg_color=0d1117)](https://git.io/streak-stats)
 </div>
 
 
 ### 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Ardhaya-Johari&title_color=F700FF&text_color=EF88AD&icon_color=F700FF&theme=tokyonight&column=6&margin-w=15&margin-h=15)
-
+<div align = "center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ardhaya-Johari&show_icons=true&count_private=true&title_color=F700FF&icon_color=F700FF&text_color=EF88AD&bg_color=0d1117)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 ## 🏅 Open Source & Community
 
 <img src="https://img.shields.io/badge/GSSoC'25-Open%20Source%20Contributor-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="GSSoC Badge"/>
