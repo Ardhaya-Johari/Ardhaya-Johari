@@ -45,9 +45,7 @@
 
 
 ### 🏆 GitHub Trophies
-<div align = "center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ardhaya-Johari&show_icons=true&count_private=true&title_color=F700FF&icon_color=F700FF&text_color=EF88AD&bg_color=0d1117)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
 ## 🏅 Open Source & Community
 
 <img src="https://img.shields.io/badge/GSSoC'25-Open%20Source%20Contributor-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="GSSoC Badge"/>
