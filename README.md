@@ -94,5 +94,5 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=F700FF&center=true&vCenter=true&width=450&lines=Made+with+❤️+by+Ardhaya+Johari;Let's+build+something+awesome+💻" alt="Typing SVG" /> </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=F700FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F700FF&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=222222&animation=fadeIn" />
 </div>
