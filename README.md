@@ -45,11 +45,8 @@
 </div>
 
 ### 🏆 GitHub Trophies
-
 <p align="center">
-  <a href="https://github.com/Ardhaya-Johari">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ardhaya-Johari&theme=tokyonight&column=6&margin-w=15&margin-h=15&title_color=F700FF&text_color=EF88AD&icon_color=F700FF&bg_color=0d1117&show_icons=true&count_private=true" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Ardhaya-Johari&theme=dracula&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
 </p>
 
 ## 🏅 Open Source & Community
@@ -77,14 +74,25 @@
 ![Ardhaya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ardhaya-Johari&show_icons=true&count_private=true&theme=tokyonight&bg_color=000000&line=F700FF&point=00FF00)
 
 ---
-## 📫 Contact Me
-
-[![Email](https://img.shields.io/badge/Email-ardhayasaxena3897@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ardhayasaxena3897@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ardhaya_Johari-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ardhaya-johari-819275321/)
-[![GitHub](https://img.shields.io/badge/GitHub-Ardhaya--Johari-black?style=flat-square&logo=github)](https://github.com/Ardhaya-Johari)
+## 🌍 **Connect with Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/ardhaya-johari-819275321/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ardhaya_Johari-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Ardhaya-Johari">
+    <img src="https://img.shields.io/badge/GitHub-Ardhaya--Johari-black?style=flat-square&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:ardhayasaxena3897@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ardhayasaxena3897@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
 ⭐️ *Thanks for visiting! Don’t forget to star my repositories!*
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=F700FF&center=true&vCenter=true&width=450&lines=Made+with+❤️+by+Ardhaya+Johari;Let's+build+something+awesome+💻" alt="Typing SVG" /> </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=F700FF&animation=fadeIn" />
+</div>
