@@ -70,14 +70,6 @@
   <img src="https://raw.githubusercontent.com/Ardhaya-Johari/Ardhaya-Johari/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
-### 👾 My Contribution Graph
-<!-- For canvas -->
-<iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=Ardhaya-Johari&platform=github" 
-    width="1000" height="600" frameborder="0"></iframe>
-    
-<!-- For SVG -->
-<img src="https://pacman.abozanona.me?username=Ardhaya-Johari" />
-
 ### 📊 Activity Graph
 ![Ardhaya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ardhaya-Johari&show_icons=true&count_private=true&theme=tokyonight&bg_color=000000&line=F700FF&point=00FF00)
 
