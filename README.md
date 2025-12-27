@@ -64,12 +64,6 @@
 > Opened pull requests that were merged into repositories 🧠💻  
 > Keep swimming strong in open source waters!
 
-### 📊 **My GitHub Contribution Graph** 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ardhaya-Johari/Ardhaya-Johari/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
 ### 👾 My Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ardhaya-Johari/Ardhaya-Johari/output/pacman-contribution-graph-dark.svg">
