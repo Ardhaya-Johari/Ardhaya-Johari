@@ -66,8 +66,8 @@
 
 ### 👾 My Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ardhaya-Johari/Ardhaya-Johari/output/pacman-contribution-graph.svg#gh-light-mode-only" alt="Pacman Contribution Graph" />
-  <img src="https://raw.githubusercontent.com/Ardhaya-Johari/Ardhaya-Johari/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pacman Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Ardhaya-Johari/Ardhaya-Johari/main/pacman-contribution-graph.svg#gh-light-mode-only" alt="Pacman Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Ardhaya-Johari/Ardhaya-Johari/main/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pacman Contribution Graph" />
 </p>
 
 ### 📊 Activity Graph
