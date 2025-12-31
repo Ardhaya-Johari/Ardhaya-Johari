@@ -35,10 +35,12 @@
 ---
 ## 🧑‍💻 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ardhaya-Johari&show_icons=true&theme=radical&hide_border=true&title_color=F700FF&icon_color=F700FF&text_color=EF88AD&bg_color=0d1117" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=compact&theme=radical&hide_border=true&title_color=F700FF&text_color=EF88AD&bg_color=0d1117" />
-  <img src="https://streak-stats.demolab.com/?user=Ardhaya-Johari&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ardhaya-Johari&show_icons=true&theme=tokyonight&hide_border=true&title_color=F700FF&icon_color=F700FF&text_color=EF88AD&bg_color=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ardhaya-Johari&theme=tokyonight&hide_border=true&ring=F700FF&fire=F700FF&currStreakLabel=F700FF&sideNums=EF88AD&currStreakNum=EF88AD&sideLabels=EF88AD&dates=9CA3AF&background=0d1117" />
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Ardhaya-Johari&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </div>
+
 
 ### 🏆 GitHub Trophies
 <p align="center">
