@@ -35,13 +35,14 @@
 ---
 ## 🧑‍💻 GitHub Stats
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=Ardhaya-Johari&show_icons=true&theme=tokyonight&hide_border=true)
 
-  ![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs/?username=Ardhaya-Johari&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=Ardhaya-Johari&show_icons=true&theme=tokyonight&hide_border=true)
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Ardhaya-Johari&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs/?username=Ardhaya-Johari&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ardhaya-Johari&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
-
 
 ### 🏆 GitHub Trophies
 <p align="center">
