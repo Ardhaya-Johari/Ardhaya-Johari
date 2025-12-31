@@ -37,8 +37,8 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=Ardhaya-Johari&show_icons=true&theme=tokyonight&hide_border=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&hide=javascript,css,scss,html&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&theme=tokyonight)
 ![Top Languages](https://github-readme-stats-olive.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=compact&theme=tokyonight&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ardhaya-Johari&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
