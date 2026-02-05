@@ -49,11 +49,6 @@
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Ardhaya-Johari&theme=dracula&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
 </p>
 
-## 🏅 Open Source & Community
-
-<img src="https://img.shields.io/badge/GSSoC'25-Open%20Source%20Contributor-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="GSSoC Badge"/>
-<img src="https://img.shields.io/badge/OSCI-Open%20Source%20Contributor-9D34DA?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OSCI Badge"/>
-
 ### 🦈 GitHub Achievements
 
 <p align="center">
