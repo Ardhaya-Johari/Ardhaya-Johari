@@ -95,6 +95,10 @@
 > Keep swimming strong in open source waters!
 
 ### 👾 My Contribution Graph
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ardhaya-Johari&theme=tokyonight&hide_border=true&radius=10" width="95%"/>
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ardhaya-Johari/Ardhaya-Johari/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ardhaya-Johari/Ardhaya-Johari/output/pacman-contribution-graph.svg">
