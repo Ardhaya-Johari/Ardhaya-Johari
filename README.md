@@ -36,13 +36,8 @@
 
 ## 🧑‍💻 GitHub Stats
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=compact&theme=tokyonight&hide_border=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ardhaya-Johari&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 </div>
 
 ### 🏆 GitHub Trophies
