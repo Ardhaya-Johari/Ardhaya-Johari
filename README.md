@@ -36,8 +36,7 @@
 
 ## 🧑‍💻 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ardhaya-Johari&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ardhaya-Johari&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com/?user=Ardhaya-Johari&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 🏆 GitHub Trophies
