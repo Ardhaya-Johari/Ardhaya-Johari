@@ -25,29 +25,38 @@
 
 <div align="center">
 
+### 🔥 Core Languages
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="65" height="65" />
+</p>
+
 ### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html5,css3,bootstrap,tailwind,js,jquery,react" width="450"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=nextjs,html,css,bootstrap,tailwind,figma,jquery" width="300"/>
 </p>
 
-### ⚡ Backend Development
+### ⚡ Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ejs" width="250"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" width="250"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,graphql,supabase" width="350"/>
 </p>
 
-### 🗄️ Database & APIs
+### ☁️ DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=restapi,postman,axios,postgres,mysql,mongodb,graphql,supabase" width="450"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify,linux" width="250"/>
 </p>
 
-### ☁️ Version Control & Deployment
+### 🧠 AI/ML & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" width="350"/>
-</p>
-
-### 🧠 AI/ML & Data
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn" width="450"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,pandas,numpy,matplotlib,seaborn" width="400"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter,ejs" width="300"/>
 </p>
 
 </div>
