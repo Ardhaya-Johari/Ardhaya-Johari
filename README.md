@@ -75,16 +75,14 @@
 ---
 
 ## 🧑‍💻 GitHub Stats
-<!-- Profile Summary Card -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ardhaya-Johari&theme=radical" />
-</p>
-
 <!-- GitHub Streak -->
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Ardhaya-Johari&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhaya-Johari&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ardhaya-Johari&theme=radical" />
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ardhaya-Johari&theme=tokyonight" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ardhaya-Johari&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ardhaya-Johari&theme=tokyonight"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ardhaya-Johari&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
