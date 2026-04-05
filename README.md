@@ -82,6 +82,7 @@
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ardhaya-Johari&theme=tokyonight" />
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ardhaya-Johari&theme=tokyonight" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ardhaya-Johari&theme=tokyonight"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ardhaya-Johari&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
