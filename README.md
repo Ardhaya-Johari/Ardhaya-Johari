@@ -17,7 +17,7 @@
 - 🌱 Currently learning: **React.js & System Design**
 - 💻 Passionate about **Web Dev, Open Source, and AI**
 - 🧠 I love solving real-world problems with clean, scalable code
-- ☕ Fun Fact: *I drink chai while fixing bugs**
+- ☕ Fun Fact: *I drink chai while fixing bugs*
 
 ---
 
