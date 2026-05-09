@@ -102,12 +102,9 @@
 > Opened pull requests that were merged into repositories 🧠💻  
 > Keep swimming strong in open source waters!
 
-### 👾 My Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ardhaya-Johari/Ardhaya-Johari/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ardhaya-Johari/Ardhaya-Johari/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ardhaya-Johari/Ardhaya-Johari/output/pacman-contribution-graph.svg">
-</picture>
+
+
+  
 
 ### 📊 Activity Graph
 ![Ardhaya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ardhaya-Johari&show_icons=true&count_private=true&theme=tokyonight&bg_color=000000&line=F700FF&point=00FF00)
