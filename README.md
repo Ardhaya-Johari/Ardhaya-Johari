@@ -78,9 +78,14 @@
 
 ## 🧑‍💻 GitHub Stats
 <!-- GitHub Streak -->
-
-
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ardhaya-Johari&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ardhaya-Johari&theme=radical" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ardhaya-Johari&theme=tokyonight" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ardhaya-Johari&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ardhaya-Johari&theme=tokyonight"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ardhaya-Johari&theme=tokyonight&utcOffset=5.5"/>
+</div>
 
 ### 🏆 GitHub Trophies
 <p align="center">
