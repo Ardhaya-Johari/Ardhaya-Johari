@@ -14,12 +14,6 @@
 
 # 🚀 About Me
 
-- 🎓 B.Tech Student  
-- 💡 Exploring tech, creativity & new opportunities  
-- 🌱 Currently learning & growing every day  
-- 💻 Interested in Web Development, AI & Problem Solving  
-- 📚 Believer in consistency over perfection  
-- ☕ Late-night ideas powered by chai & maggi 🍜  
 
 ---
 
