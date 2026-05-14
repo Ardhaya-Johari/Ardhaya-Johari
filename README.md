@@ -113,8 +113,17 @@
 
 ---
 ## 🌍 **Connect with Me**  
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/ardhaya-johari-819275321/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ardhaya_Johari-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Ardhaya-Johari">
+    <img src="https://img.shields.io/badge/GitHub-Ardhaya--Johari-black?style=flat-square&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:ardhayasaxena3897@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ardhayasaxena3897@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
