@@ -27,12 +27,7 @@
 <div align="center">
 
 ### 🔥 Core Languages
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="65" height="65" />
-</p>
+
 
 ### 🎨 Frontend Development
 <p align="center">
