@@ -65,13 +65,7 @@
 ---
 
 
-## 📁 Featured Projects
-| Project | Description |
-|--------|-------------|
-| ![Gemini AI Clone](https://img.shields.io/badge/Gemini%20AI-F700FF?style=for-the-badge&logo=google&logoColor=black) | A functional clone of Google's Gemini UI with HTML/CSS/JS |
-| ![Skriva Blog](https://img.shields.io/badge/Skriva%20Blog-F700FF?style=for-the-badge&logo=node.js&logoColor=black) | A full-stack blog web app with create/edit/delete posts using Node.js & EJS |
-| ![Forest Fire Monitoring](https://img.shields.io/badge/Forest%20Fire-F700FF?style=for-the-badge&logo=firefox&logoColor=black) | An AI-assisted system to detect and monitor forest fires in real-time |
-| ![Aurelia](https://img.shields.io/badge/Aurelia-F700FF?style=for-the-badge&logo=react&logoColor=black) | A React-based, travel-friendly app to plan and track trips seamlessly |
+
 
 ---
 
