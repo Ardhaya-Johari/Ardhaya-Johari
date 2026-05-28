@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Ardhaya+Johari;⚙️+Full+Stack+Developer+|+MERN+%26+Beyond;☕+Debugging+with+Chai" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <code>while (true) { code(); fixBugs(); drinkChai(); }</code>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ardhaya-Johari&style=for-the-badge&color=F700FF" alt="Profile views" />
