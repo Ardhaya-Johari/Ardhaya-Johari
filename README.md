@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Ardhaya+Johari;⚙️+Full+Stack+Developer+|+MERN+%26+Beyond;☕+Debugging+with+Chai" alt="Typing SVG"/>
-</p>
+
 
 <p align="center">
   <code>while (true) { code(); fixBugs(); drinkChai(); }</code>
@@ -27,12 +27,7 @@
 <div align="center">
 
 ### 🔥 Core Languages
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="65" height="65" />
-</p>
+
 
 ### 🎨 Frontend Development
 <p align="center">
