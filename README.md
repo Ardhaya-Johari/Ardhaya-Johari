@@ -107,7 +107,6 @@
 </picture>
 
 ### 📊 Activity Graph
-![Ardhaya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ardhaya-Johari&show_icons=true&count_private=true&theme=tokyonight&bg_color=000000&line=F700FF&point=00FF00)
 
 ---
 ## 🌍 **Connect with Me**  
