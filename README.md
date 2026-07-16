@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ardhaya-Johari&style=for-the-badge&color=F700FF" alt="Profile views" />
 </p>
   
-
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGUwZGliNi0wZDU4NDgyMC00NWQ5LTQ5YzgtYTU0ZC1hMzNiOThhYzgzNzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oIKwFOK9Aqd8E2YOv8KDWQoSyNhyM_7E6T34Td20ZKE" width="1600" height="900">
 
 # 🚀 About Me
 - 🎓 B.Tech Student  
