@@ -4,7 +4,7 @@
 
 <p align="center">
     <code>while (true) { code(); fixBugs(); drinkChai(); }</code>
-</p
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ardhaya-Johari&style=for-the-badge&color=F700FF" alt="Profile views" />
