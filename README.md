@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+      <code>while (true) { code(); fixBugs(); drinkChai(); }</code>
 </p>
 
 <p align="center">
