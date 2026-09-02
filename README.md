@@ -108,7 +108,10 @@
 
 ### 📊 Activity Graph
 ![Ardhaya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ardhaya-Johari&show_icons=true&count_private=true&theme=tokyonight&bg_color=000000&line=F700FF&point=00FF00)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ardhaya-Johari&theme=tokyo-night&bg_color=0d1117&color=EF88AD&line=F700FF&point=FFFFFF&area=true&hide_border=true)
 ---
+
 ## 🌍 **Connect with Me**  
 <p align="center">
   <a href="https://www.linkedin.com/in/ardhaya-johari-819275321/">
